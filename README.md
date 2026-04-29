@@ -22,15 +22,15 @@ This project is a 3-page interactive Power BI dashboard analyzing global AI job 
 
 ### Page 1 – Executive Overview
 
-![Page 1](page1.png)
+![Page 1](pg1.png)
 
 ### Page 2 – Skills Deep Dive
 
-![Page 2](page2.png)
+![Page 2](pg2.png)
 
 ### Page 3 – Global Market Dashboard
 
-![Page 3](page3.png)
+![Page 3](pg3.png)
 
 ## 📥 Download Power BI File
 
