@@ -34,7 +34,8 @@ This project is a 3-page interactive Power BI dashboard analyzing global AI job 
 
 ## 📥 Download Power BI File
 
-(Add your Google Drive link here)
+[AI_Skills_Global_Dashboard_Prem.pbix.zip](https://github.com/user-attachments/files/27219876/AI_Skills_Global_Dashboard_Prem.pbix.zip)
+
 
 ## 👤 Author
 
